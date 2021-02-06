@@ -42,3 +42,8 @@ if a>125
   print("vaild")
  else: 
    print("not vaild") 
+   `````c programing
+   #include<stdio.h>
+   #include<coino.h>
+   void main()
+   
