@@ -33,7 +33,12 @@ a | -
 :rocket: 
 :metal: 
 :octocat:
-
 tell me about your self?
 - [x] my name is latha
 - [X] iam coming from epurupalem
+`````python
+a=121
+if a>125
+  print("vaild")
+ else: 
+   print("not vaild") 
