@@ -25,3 +25,4 @@ a | r
 t | e
 h | e
 a | -
+github supports emoji |
